@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  /></a>
   
 <a href="mailto:Raghad.noser.2003@gmail.com" target="blank">
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=8B0000&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo" /></a>
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo" /></a>
 
 <a href="https://codeforces.com/profile/raghad78" target="blank">
 <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=FF8C00&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="codeforces logo" /></a>
