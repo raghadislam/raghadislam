@@ -1,6 +1,8 @@
 # Raghad Islam Noser
 <div align="center">
-<a href="https://www.linkedin.com/in/raghad-islam-a0133825b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raghad-islam-a0133825b/" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/48/LinkedIn_icon.svg" alt="LinkedIn" height="30" width="30" style="clip-path: polygon(50% 0%, 0% 100%, 100% 100%);" />
+</a>
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
