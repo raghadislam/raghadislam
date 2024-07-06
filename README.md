@@ -3,12 +3,13 @@
 <a href="https://www.linkedin.com/in/raghad-islam-a0133825b/" target="blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="15" alt="linkedin logo"  /></a>
   
+<a href="Raghad.noser.2003@gmail.com" target="blank">
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="15" alt="gmail logo" /></a>
 
-  <a href="https://codeforces.com/profile/raghad78" target="blank">
-  <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="15" alt="codeforces logo" /></a>
-  <a href="  https://www.facebook.com/raghad.noser/" target="blank">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="15" alt="facebook logo" /></a>
-
+<a href="https://codeforces.com/profile/raghad78" target="blank">
+<img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="15" alt="codeforces logo" /></a>
+<a href="  https://www.facebook.com/raghad.noser/" target="blank">
+<img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="15" alt="facebook logo" /></a>
   
 </div>
 <h3 align="left">A passionate Software Engineer from Egypt</h3>
