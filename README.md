@@ -32,10 +32,7 @@
 </p>
 
 <div align="left">
-  <p>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghadislam&show_icons=true&locale=en&theme=dracula&layout=compact" alt="raghadislam" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghadislam&show_icons=true&locale=en&theme=dracula&layout=compact" alt="raghadislam" /></p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghadislam&theme=dracula&" alt="raghadislam" /></p>
 
-  
-</div>
 
