@@ -14,7 +14,7 @@
 </div>
 
 <h3 align="left">A passionate Software Engineer from Egypt</h3>
-
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
