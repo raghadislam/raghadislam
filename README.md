@@ -5,18 +5,16 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  /></a>
   
 <a href="mailto:Raghad.noser.2003@gmail.com" target="blank">
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo" /></a>
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=8B0000&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo" /></a>
 
 <a href="https://codeforces.com/profile/raghad78" target="blank">
-<img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="codeforces logo" /></a>
+<img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=FF8C00&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="codeforces logo" /></a>
 <a href="https://www.facebook.com/raghad.noser/" target="blank">
 <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="facebook logo" /></a>
 </div>
 
 <h3 align="left">A passionate Software Engineer from Egypt</h3>
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/151TUCMaKMzdO8NSzay35GbHTcVzSRMyE/view?usp=sharing)
-- 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
