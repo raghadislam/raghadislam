@@ -13,10 +13,10 @@
 <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="facebook logo" /></a>
 </div>
 
-<h3 align="left">A passionate Software Engineer from Egypt</h3>
+💁: <h3 align="left">A passionate Software Engineer from Egypt</h3>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+🧰: <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -30,8 +30,6 @@
 <a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/> </a> 
 </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> 
 </p>
-</p>
-</div>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghadislam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
