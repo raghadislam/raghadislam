@@ -1,17 +1,17 @@
 # Raghad Islam Noser
-<div align="center">
+<div align="left">
 <a href="https://www.linkedin.com/in/raghad-islam-a0133825b/" target="blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="15" alt="linkedin logo"  /></a>
   
 
   <a href="https://codeforces.com/profile/raghad78" target="blank">
-  <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo" /></a>
+  <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="15" alt="codeforces logo" /></a>
   <a href="  https://www.facebook.com/raghad.noser/" target="blank">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="15" alt="facebook logo" /></a>
 
   
 </div>
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
+<h3 align="left">A passionate Software Engineer from Egypt</h3>
 
 - 📫 How to reach me **Raghad.noser.2003@gmail.com**
 
