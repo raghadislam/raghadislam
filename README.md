@@ -35,6 +35,8 @@
   <p>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghadislam&show_icons=true&locale=en&theme=dracula&layout=compact" alt="raghadislam" /></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghadislam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" alt="raghadislam"  />
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=raghadislam&theme=dracula&" alt="raghadislam" /></p>
+
+  
 </div>
 
