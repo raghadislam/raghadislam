@@ -4,14 +4,11 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
   
 
-  <a href="https://github.com/[your-github-username]" target="blank">
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" /></a>
-  <a href="https://codeforces.com/profile/rahgad78" target="blank">
+  <a href="https://codeforces.com/profile/raghad78" target="blank">
   <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo" /></a>
-  <a href="https://fb.com/raghad.noser" target="blank">
+  <a href="  https://www.facebook.com/raghad.noser/" target="blank">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>
 
-  https://www.facebook.com/raghad.noser/
   
 </div>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
