@@ -33,7 +33,7 @@
 
 <div align="left">
   <p>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghadislam&show_icons=true&locale=en&theme=dracula&layout=compact" alt="raghadislam" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghadislam&show_icons=true&locale=en&theme=dracula&card_width=320&langs_count=5&layout=compact" alt="raghadislam" /></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghadislam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" alt="raghadislam"  />
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=raghadislam&theme=dracula&" alt="raghadislam" /></p>
 
