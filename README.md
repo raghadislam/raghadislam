@@ -40,7 +40,7 @@
 </p>
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghadislam&show_icons=true&locale=en&theme=dracula&layout=compact" alt="raghadislam"  hight = 100 />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghadislam&show_icons=true&locale=en&theme=dracula&layout=compact" alt="raghadislam"  hight = "100" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghadislam&theme=dracula&" alt="raghadislam" />
 
 
