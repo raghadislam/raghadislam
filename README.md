@@ -41,6 +41,5 @@
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghadislam&show_icons=true&locale=en&theme=dracula&layout=compact" alt="raghadislam" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raghadislam&theme=dracula&" alt="raghadislam" />
 
 
