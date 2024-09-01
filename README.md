@@ -2,7 +2,7 @@
 
 <div align="left">
 <a href="https://www.linkedin.com/in/raghad-islam-a0133825b/" target="blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  /></a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  /></a>
   
 <a href="mailto:Raghad.noser.2003@gmail.com" target="blank">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=CC0000&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="gmail logo" /></a>
