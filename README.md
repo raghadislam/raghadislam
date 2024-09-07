@@ -33,13 +33,16 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  /> </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" title="Arduino">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  </a>
 </a> 
 <a href="https://gcc.gnu.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" alt="gcc" width="40" height="40"/> 
 </a>
-
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" title="Embedded C">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" alt="embeddedc" width="40" height="40"/>
+  </a>
 </p>
 
 <div align="left">
