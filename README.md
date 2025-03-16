@@ -44,7 +44,6 @@
 
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghadislam&show_icons=true&locale=en&theme=dracula&layout=compact" alt="raghadislam" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghadislam&layout=compact&theme=dracula)
 
